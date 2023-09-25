@@ -1,0 +1,20 @@
+.carousel-item img {
+  height: 50vh;
+  object-fit: cover;
+  /* object-position: top; */
+}
+
+.card img {
+  aspect-ratio: 1;
+  object-fit: cover;
+  max-width: 116px;
+}
+
+
+.my-5-auto-2 {
+  margin: 5rem auto 2rem;
+}
+
+.fsize-6 {
+  font-size: 12px;
+}
